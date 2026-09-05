@@ -4,10 +4,10 @@
 
 ## 关于
 
-- 现就读于计算机相关专业，目前围绕 AI 图像识别、医学影像分析与开发者工具链构建项目；
+- 就读于计算机相关专业，目前围绕 AI 图像识别、医学影像分析与开发者工具链构建项目；
 - 技术涉猎覆盖 C/C++ 、Python 、Git 、Agent 开发等，后续可能学习 Rust 或 C# 等相关知识；
-- 写作风格偏实战：原理先行，并提供可直接复用的"懒人版"流程
-- 在线博客：<https://xiao-blog.top>，部署于 Cloudflare Pages + D1，零构建零依赖
+- 本人写作风格偏实战，提供原理但也提供可直接复用的"懒人版"流程；
+- 在线博客：<https://xiao-blog.top>，部署于 Cloudflare Pages，零构建零依赖
 
 ## 技术栈
 
@@ -29,11 +29,6 @@
 
 ![ckckh2023's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckckh2023&show_icons=true&theme=github&bg_color=f6f8fa&title_color=0969da&icon_color=0969da)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckckh2023&layout=compact&theme=github&bg_color=f6f8fa&title_color=0969da)
-
-## 联系方式
-
-- 邮箱：fightened2023@foxmail.com
-- GitHub Issue 亦可直接用于交流
 
 ## 授权
 
