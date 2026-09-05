@@ -19,6 +19,4 @@
 
 ## 统计
 
-![ckckh2023's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckckh2023)
-![ckckh2023's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ckckh2023)
-
+[![ckckh2023's GitHub stats](https://github-stats-extended.vercel.app/api?username=ckckh2023)](https://github.com/stats-organization/github-stats-extended)
