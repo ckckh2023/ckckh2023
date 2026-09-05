@@ -19,5 +19,6 @@
 
 ## 统计
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ckckh2023&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+![ckckh2023's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckckh2023)
+![ckckh2023's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ckckh2023)
 
