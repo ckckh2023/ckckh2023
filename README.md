@@ -2,6 +2,10 @@
 
 励志成为全栈开发者，主力语言 Python 与 C/C++，同时维护个人博客的前端与边缘后端，习惯把可控性置于便利之上。
 
+![Followers](https://img.shields.io/github/followers/ckckh2023?style=for-the-badge&label=Followers&color=0969da)
+![Following](https://img.shields.io/github/following/ckckh2023?style=for-the-badge&label=Following&color=6e7681)
+![Repos](https://img.shields.io/github/repos/ckckh2023?style=for-the-badge&label=Public%20Repos&color=1f883d)
+
 ## 关于
 
 - 就读于计算机相关专业，目前围绕 AI 图像识别、医学影像分析与开发者工具链构建项目；
@@ -25,10 +29,9 @@
 - **Xiao-Blog** — 个人技术博客，含项目展示、文档知识库、分享库与留言板，源码即产物
 - **BDWLMC-Web** — Minecraft 基岩荒地服务器官方网站
 
-## 统计
+## 贡献
 
-![ckckh2023's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckckh2023&show_icons=true&theme=github&bg_color=f6f8fa&title_color=0969da&icon_color=0969da)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckckh2023&layout=compact&theme=github&bg_color=f6f8fa&title_color=0969da)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ckckh2023&theme=github-quiet&area=true" width="100%" />
 
 ## 授权
 
