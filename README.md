@@ -17,5 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-083FA1?style=flat&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 [![ckckh2023's GitHub stats](https://github-stats-extended.vercel.app/api?username=ckckh2023)](https://github.com/stats-organization/github-stats-extended)
